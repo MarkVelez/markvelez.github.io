@@ -292,7 +292,8 @@ footer, header, hgroup, menu, nav, section {
     .single-product-area .product-img img {
       position: relative;
       z-index: 1;
-      width: 100%; }
+      width: 100%;
+      cursor: pointer; }
     .single-product-area .product-img .product-tag a {
       background-color: #429edf;
       border-radius: 2px;
